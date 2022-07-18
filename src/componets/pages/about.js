@@ -12,7 +12,7 @@ const About = () => {
       <h1> 
       Anthony Hill's Page
 
-        Science portal for geeks. 
+        
 
       </h1> 
 

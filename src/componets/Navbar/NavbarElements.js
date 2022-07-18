@@ -5,11 +5,12 @@ import { FaBars } from "react-icons/fa";
 import { NavLink as Link } from "react-router-dom"; 
 
 import styled from "styled-components"; 
+import Navbar from ".";
 
   
 export const Nav = styled.nav` 
 
-  background: #ffb3ff; 
+  background: #3b3561; 
 
   height: 85px; 
 
@@ -51,7 +52,7 @@ export const Bars = styled(FaBars)`
 
   display: none; 
 
-  color: #808080; 
+  color: #3B3561; 
 
   @media screen and (max-width: 768px) { 
 
@@ -96,3 +97,5 @@ white-space: nowrap; */
 
   } 
 `; 
+
+export default Navbar
