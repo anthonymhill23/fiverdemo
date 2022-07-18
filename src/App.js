@@ -13,7 +13,7 @@ import Home from './componets/pages';
 
 import About from './componets/pages/about'; 
 
-import Blogs from './componets/pages/blogs'; 
+import Blogs from './componets/pages/Projectlinks'; 
 
 import SignUp from './componets/pages/signup'; 
 
@@ -31,7 +31,7 @@ return (
 
     <Routes> 
 
-        <Route exact path='/' exact element={<Home />} /> 
+        <Route exact path='/'  element={<Home />} /> 
 
         <Route path='/about' element={<About/>} /> 
 

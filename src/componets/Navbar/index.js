@@ -30,13 +30,13 @@ const Navbar = () => {
 
           <NavLink to="/blogs" activeStyle> 
 
-            Blogs 
+            Project Links 
 
           </NavLink> 
 
           <NavLink to="/sign-up" activeStyle> 
 
-            Sign Up 
+            Request Work
 
           </NavLink> 
 

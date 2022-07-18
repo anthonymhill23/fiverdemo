@@ -9,7 +9,7 @@ const SignUp = () => {
 
     <div> 
 
-      <h1>Sign Up Successful</h1> 
+      <h1>Sign Up page coming soon</h1> 
 
     </div> 
 
